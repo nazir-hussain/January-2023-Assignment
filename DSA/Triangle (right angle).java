@@ -6,5 +6,4 @@ static void printTriangle(){
         }
         System.out.println();
     }
-
 }
