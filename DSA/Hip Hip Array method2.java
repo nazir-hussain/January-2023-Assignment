@@ -37,7 +37,6 @@ public class HipHipArray {
                 }
             }
         }
-
         System.out.println(sum + " " + product);
     }
 }
