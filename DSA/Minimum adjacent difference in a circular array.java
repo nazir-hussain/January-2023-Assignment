@@ -1,5 +1,12 @@
+import java.io.*; // for handling input/output
+import java.util.*; // contains Collections framework
 
-Scanner scanner = new Scanner(System.in);
+// don't change the name of this class
+// you can add inner classes if needed
+class Main {
+    public static void main (String[] args) {
+        // Your code here
+        Scanner scanner = new Scanner(System.in);
 
         int T = scanner.nextInt();
 
@@ -23,3 +30,5 @@ Scanner scanner = new Scanner(System.in);
 
             System.out.println(minimumAbsoluteDifference);
         }
+    }
+}
