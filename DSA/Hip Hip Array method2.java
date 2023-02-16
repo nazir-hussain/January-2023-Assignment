@@ -1,4 +1,3 @@
-HipHipArray.java
 package IterativeStatement.AssignmentQuestions;
 
 import java.util.Scanner;
