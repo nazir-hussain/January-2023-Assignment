@@ -12,7 +12,6 @@ public class HipHipArray {
         for(int i = 0; i < N; i++) {
             arr[i] = scanner.nextInt();
         }
-
         //logic
         int sum = 0;
         long product = 1L;
