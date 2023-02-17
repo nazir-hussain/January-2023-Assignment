@@ -22,7 +22,7 @@ class Main {
           p++;
          }
          for(int i=0;i<a;i++){
-            //  System.out.println(arr2[i]);
+            //  System.out.println(arr2[i]);    // for checking
         }
          int sum=0;
          long mul=1;
